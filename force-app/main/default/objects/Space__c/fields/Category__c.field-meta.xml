@@ -11,14 +11,9 @@
         <valueSetDefinition>
             <sorted>false</sorted>
             <value>
-                <fullName>Building</fullName>
+                <fullName>Building Block Room</fullName>
                 <default>false</default>
-                <label>Building</label>
-            </value>
-            <value>
-                <fullName>Block Room</fullName>
-                <default>false</default>
-                <label>Block Room</label>
+                <label>Building Block Room</label>
             </value>
             <value>
                 <fullName>Café</fullName>
@@ -64,6 +59,12 @@
                 <fullName>Walking Meditation Paths</fullName>
                 <default>false</default>
                 <label>Walking Meditation Paths</label>
+            </value>
+            <value>
+                <fullName>Building</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>Building</label>
             </value>
         </valueSetDefinition>
     </valueSet>
